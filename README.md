@@ -1,5 +1,7 @@
-<h2>contact me!&nbsp;<img alt="" src="https://i.pinimg.com/originals/45/f1/8c/45f18c4a6c8aaa1f6144fa1dd10127a1.gif" style="height:20px; width:30px" /></h2>
+<h1 align="center"> Hi! I'm Lea! <img alt="Frog gif" src="https://pixels.crd.co/assets/images/gallery41/db09acb5.gif?v=99d3974e" style="height:40px; width:40px" /></h1>
 
-<p><img alt="" src="https://static-00.iconduck.com/assets.00/email-icon-2048x1628-mzownmgf.png" style="height:20px; width:25px" />&nbsp; <a href="mailto:leanelys.gonzalez@upr.edu">leanelys.gonzalez@upr.edu</a></p>
+<p align="center"> <img alt="Green hearts gif" src="https://pixels.crd.co/assets/images/gallery11/2e28370f.gif?v=99d3974e" style="height:20px; width:20px" /> <strong>Software Engineering student</strong> at the University of Puerto Rico, Mayagüez <img alt="Green hearts gif" src="https://pixels.crd.co/assets/images/gallery11/2e28370f.gif?v=99d3974e" style="height:20px; width:20px" /> </p>
 
-<p>&nbsp;</p>
+<p align="center"> <img alt="Letter mail gif" src="https://pixels.crd.co/assets/images/gallery68/cd89185b.gif?v=99d3974e" style="height:20px; width:20px" /> <a href="mailto:leanelys.gonzalez@upr.edu">leanelys.gonzalez@upr.edu</a> <img alt="Letter mail gif" src="https://pixels.crd.co/assets/images/gallery68/cd89185b.gif?v=99d3974e" style="height:20px; width:20px" /> </p>
+
+<p align="center"> <img alt="Green key gif" src="https://pixels.crd.co/assets/images/gallery89/791e660a.gif?v=99d3974e" style="height:20px; width:20px" /> <a href="https://www.linkedin.com/in/leanelys/"> LinkedIn: leanelys  </a> <img alt="Green key gif" src="https://pixels.crd.co/assets/images/gallery89/791e660a.gif?v=99d3974e" style="height:20px; width:20px" /> </p>
